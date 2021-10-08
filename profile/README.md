@@ -1,6 +1,6 @@
 ## Mintbase 
 
-Welcome to Mintbase, here you will find tools to get you started with building NFT applications on the NEAR blockchain.
+Welcome to Mintbase, here you will find tools to get you started with building NFT applications with the Mintbase tooling. Now on the NEAR blockchain.
 
 - [Starter Project](https://github.com/mintbase/create-mintbase-app): Boostrap your app in a few minutes
 - [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use to get everything done
