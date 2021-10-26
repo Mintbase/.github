@@ -7,6 +7,10 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 - [Testnet Developer](https://testnet.mintbase.io/developers): Learn how to query data from our testnet database
 - [Mainnet Developer](https://www.mintbase.io/developers): Learn how to query data from our mainnet database
 
+### Tutorial 
+
+- [Create your own NFT Minter](https://www.youtube.com/watch?v=0HBIGcAARP8)
+
 <!--
 
 **Here are some ideas to get you started:**
