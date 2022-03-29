@@ -16,7 +16,7 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 
 Is something not working right? Checkout our services status.
 
-- [Status](https://github.com/Mintbase/statuses)
+- [Status](https://github.com/Mintbase/status)
 
 <!--
 
