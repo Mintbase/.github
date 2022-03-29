@@ -11,6 +11,13 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 
 - [Create your own NFT Minter](https://www.youtube.com/watch?v=0HBIGcAARP8)
 
+
+### Services Status
+
+Is something not working right? Checkout our services status.
+
+- [Status](https://github.com/Mintbase/statuses)
+
 <!--
 
 **Here are some ideas to get you started:**
