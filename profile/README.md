@@ -4,6 +4,7 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 
 - [Getting Started](https://docs.mintbase.io/dev/getting-started): High level
 - [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use to get everything done
+- [Mintbase UI](https://github.com/mintbase/mintbase-ui): The Mintbase UI library 
 - [Testnet Developer](https://testnet.mintbase.io/developers): Learn how to query data from our testnet database
 - [Mainnet Developer](https://www.mintbase.io/developers): Learn how to query data from our mainnet database
 
