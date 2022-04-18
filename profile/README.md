@@ -7,7 +7,7 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 - [Mintbase UI](https://github.com/mintbase/mintbase-ui): The Mintbase UI library 
 - [Testnet Developer](https://testnet.mintbase.io/developers): Learn how to query data from our testnet database
 - [Mainnet Developer](https://www.mintbase.io/developers): Learn how to query data from our mainnet database
-
+- [Grants](https://github.com/Mintbase/Grants-Programs): Learn how to apply for grants
 ### Tutorial 
 
 - [Create your own NFT Minter](https://www.youtube.com/watch?v=0HBIGcAARP8)
