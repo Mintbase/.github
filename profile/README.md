@@ -3,15 +3,11 @@
 Welcome to Mintbase, here you will find tools to get you started with building NFT applications with the Mintbase tooling. Now on the NEAR blockchain.
 
 - [Getting Started](https://docs.mintbase.io/dev/getting-started): High level
-- [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use to get everything done
+- [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io
 - [Mintbase UI](https://github.com/mintbase/mintbase-ui): The Mintbase UI library 
 - [Testnet Developer](https://testnet.mintbase.io/developers): Learn how to query data from our testnet database
 - [Mainnet Developer](https://www.mintbase.io/developers): Learn how to query data from our mainnet database
 - [Grants](https://github.com/Mintbase/Grants-Program): Learn how to apply for grants
-### Tutorial 
-
-- [Create your own NFT Minter](https://www.youtube.com/watch?v=0HBIGcAARP8)
-
 
 ### Services Status
 
