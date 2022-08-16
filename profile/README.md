@@ -5,7 +5,7 @@ Welcome to Mintbase, here you will find tools to get you started with building N
 - [Getting Started](https://docs.mintbase.io/dev/getting-started): High level
 - [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io
 - [Mintbase UI](https://github.com/mintbase/mintbase-ui): The Mintbase UI library 
-- [Developer Docs](https://docs.mintbase.io/dev/getting-data): Learn how to query data from our indexers
+- [Developer Docs](https://docs.mintbase.io/dev/data-and-indexer): Learn how to query data from our indexers
 - [Examples](https://github.com/Mintbase/examples): Fire up your own minter, market, or gallery in minutes
 - [Grants](https://github.com/Mintbase/Grants-Program): Learn how to apply for grants
 
