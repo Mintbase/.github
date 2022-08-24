@@ -1,8 +1,7 @@
 ## Mintbase 
 
 Welcome to Mintbase, here you will find tools to get you started with building NFT applications with the Mintbase tooling. Now on the NEAR blockchain.
-
-- [Getting Started](https://docs.mintbase.io/dev/getting-started): High level
+- [Docs](https://docs.mintbase.io/dev/introduction): High level
 - [Mintbase.js](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io
 - [Mintbase UI](https://github.com/mintbase/mintbase-ui): The Mintbase UI library 
 - [Developer Docs](https://docs.mintbase.io/dev/data-and-indexer): Learn how to query data from our indexers
