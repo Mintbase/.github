@@ -2,12 +2,12 @@
 
 Welcome to Mintbase, here you will find tools to get you started with building NFT applications with the Mintbase tooling. Now on the NEAR blockchain.
 - [Docs](https://docs.mintbase.xyz/): Mintbase JS & Website User Documentation
+- [Templates](https://github.com/Mintbase/templates): Fire up your own minter, market, or gallery in minutes
 - [MintbaseJS](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io 
 - [Rust Contracts](https://github.com/Mintbase/mb-contracts): Market, NEP171 NFT store, factory
 - [Audits](https://arweave.net/WvB-T_sg6HbpG08NLutna0bw65hq4tkZZoUJzw4iRK4) 
 - [Developer Docs](https://docs.mintbase.io/dev/data-and-indexer): Learn how to query data from our indexers
 - [Mintbase UI](https://github.com/mintbase/mintbase-ui): Mintbase UI library
-- [Examples](https://github.com/Mintbase/examples): Fire up your own minter, market, or gallery in minutes
 - [Grants](https://github.com/Mintbase/Grants-Program): Learn how to apply for grants
 - [Minsta](https://github.com/Mintbase/minsta): Run your own meta transaction selfie minting engine.
 
