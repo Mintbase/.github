@@ -1,7 +1,7 @@
 ## Bitte Protocol + Mintbase 
 
 Welcome to Bitte, here you will find tools to get you started with building NFT applications with the Mintbase tooling. Now on the NEAR blockchain.
-- [Docs](https://docs.mintbase.xyz/): Mintbase JS & Website User Documentation
+- [Docs](https://docs.bitte.ai/): Mintbase JS & Website User Documentation
 - [Templates](https://github.com/Mintbase/templates): Fire up your own minter, market, or gallery in minutes
 - [MintbaseJS](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io 
 - [Rust Contracts](https://github.com/Mintbase/mb-contracts): Market, NEP171 NFT store, factory
